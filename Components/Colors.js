@@ -1,0 +1,9 @@
+export const lightPink = "#FFCAF2";
+export const Pink = "#FFB2B1";
+export const Purple = "#C9B1FF";
+export const lightGreen = "#BCFFBC";
+export const lightYellow = "#FFF3AD";
+export const lightBlue = "#A2EDFF";
+export const darkPink = "#d45672";
+export const lightPurple = 'rgba(221, 205, 255, 0.5)';
+export const darkPurple = '#544FA2'
